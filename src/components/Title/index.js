@@ -4,9 +4,7 @@ import { View, Text } from 'react-native';
 export default function Title(){
     return(
         <View>
-            <Text>
-                UBIC.HEALTH
-            </Text>
+           <Text>UBIC.HEALTH</Text>
         </View>
     );
 }
